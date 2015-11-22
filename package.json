@@ -1,0 +1,19 @@
+{
+  "name": "werewovles-bot",
+  "version": "0.0.1",
+  "description": "A Telegram Bot to play Werewovles",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inDream/WerewovlesBot.git"
+  },
+  "author": "inDream",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inDream/WerewovlesBot/issues"
+  },
+  "homepage": "https://github.com/inDream/WerewovlesBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.15.0"
+  }
+}
